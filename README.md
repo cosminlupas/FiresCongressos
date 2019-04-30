@@ -36,7 +36,7 @@
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/9.png)
 
-###
+### Palaus
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/10.png)
 
