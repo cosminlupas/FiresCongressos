@@ -28,11 +28,11 @@
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/7.png)
 
-###
+### Tipus Entrades
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/8.png)
 
-###
+### Tasca
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/9.png)
 
@@ -40,11 +40,11 @@
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/10.png)
 
-###
+### 
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/11.png)
 
-###
+### Tot el Diagrama
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/12.png)
 
