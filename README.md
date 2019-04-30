@@ -20,7 +20,7 @@
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/5.png)
 
-###
+### Persones
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/6.png)
 
