@@ -24,7 +24,7 @@
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/6.png)
 
-###
+### Persones Patrimoni
 
 ![](https://github.com/cosminlupas/FiresCongressos/blob/master/7.png)
 
